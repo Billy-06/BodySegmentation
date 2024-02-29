@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/EmotionDetection/static/css/main.e6c13ad2.css",
+    "main.js": "/EmotionDetection/static/js/main.2f8e2cc6.js",
+    "index.html": "/EmotionDetection/index.html",
+    "main.e6c13ad2.css.map": "/EmotionDetection/static/css/main.e6c13ad2.css.map",
+    "main.2f8e2cc6.js.map": "/EmotionDetection/static/js/main.2f8e2cc6.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.2f8e2cc6.js"
+  ]
+}
